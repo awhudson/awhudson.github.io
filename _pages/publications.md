@@ -7,6 +7,7 @@ author_profile: true
 
 Preprints
 ------
+1. **Hudson, A.**, Carone, M., & Shojaie, A. Inference on function-valued parameters using a restricted score test.[\[ArXiv\]](https://arxiv.org/abs/2105.06646)
 1. **Hudson, A.**, & Shojaie, A. Covariate-Adjusted Inference for Differential Analysis of High-Dimensional Networks.[\[ArXiv\]](https://arxiv.org/abs/2010.08704) [\[code\]](https://github.com/awhudson/CovariateAdjustedDiffNetwork)
 1. **Hudson, A.**, & Shojaie, A. Statistical Inference for Qualitative Interactions with Applications to Precision Medicine and Differential Network Analysis. [\[ArXiv\]](https://arxiv.org/abs/2010.08703) [\[code\]](https://github.com/awhudson/QualitativeInteractions)
 
